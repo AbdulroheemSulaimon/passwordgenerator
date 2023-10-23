@@ -1,0 +1,16 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.generator-btn {
+    height: 80px;
+    width: 150px;
+    background-color: blue;
+    border-radius: 50%;
+    color: white;
+    box-shadow: 7px 3px 0.5px rgba(0, 0, 0, 0.5);
+}
+span {
+    color: green;
+}
